@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+I'm Kevin, a passionate full stack developer from Vancouver, Canada.  I also have over 10 years experience as a product owner & project manager working on web & mobile projects for a wide range of large publishing, gaming, entertainment and media companies.  Learn more on my [LinkedIn page](https://www.linkedin.com/in/kevin-ip-pmp/).
+
 <!--
 **ipkevin/ipkevin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
